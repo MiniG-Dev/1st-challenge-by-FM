@@ -45,6 +45,7 @@ body {
     color: var(--slate-900);
     padding-bottom: 16px;
     margin: 0;
+    text-align: center;
 }
 
 .qr-code-text p {
