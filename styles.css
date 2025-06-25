@@ -26,6 +26,7 @@ body {
     padding: 16px 16px 40px 16px;
     width: max-content;
     margin: auto;
+    box-shadow: 0 16px 16px hsl(0deg 0% 0% / 0.1);
 }
 
 .qr-code-image img {
