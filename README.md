@@ -10,8 +10,8 @@ A responsive QR code component built with HTML and CSS, created as part of the F
 
 ### Links
 
-- Live Site URL: [Add your live site URL here after deployment]
-- GitHub Repository: [Add your GitHub repo URL here]
+- Live Site URL: https://minig-dev.github.io/1st-challenge-by-FM
+- GitHub Repository: https://github.com/MiniG-Dev/1st-challenge-by-FM
 
 ## My Process
 
@@ -19,9 +19,7 @@ A responsive QR code component built with HTML and CSS, created as part of the F
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - Mobile-first responsive design
-- CSS Grid
 
 ### What I Learned
 
