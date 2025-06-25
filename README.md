@@ -40,8 +40,8 @@ This project helped me practice:
 
 ## Author
 
-- GitHub - [Your GitHub username]
-- Frontend Mentor - [Your Frontend Mentor profile]
+- GitHub - MiniG-Dev
+- Frontend Mentor - https://www.frontendmentor.io/profile/MiniG-Dev
 
 ## Acknowledgments
 
