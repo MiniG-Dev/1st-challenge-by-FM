@@ -1,0 +1,66 @@
+:root {
+    --white: #ffffff;
+    --slate-900: #1F314F;
+    --slate-500: #68778D;
+    --slate-300: #D5E1EF;
+    --font-family: "Outfit", sans-serif;
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+    --font-size-regular: 15px;
+    --font-size-bold: 22px;
+    --line-height-regular: 140%;
+    --line-height-bold: 120%;
+    --letter-spacing-regular: 0.2px;
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--slate-300);
+    height: 97vh;
+    place-content: center;
+}
+
+.qr-code {
+    background-color: var(--white);
+    border-radius: 20px;
+    padding: 16px 16px 40px 16px;
+    width: max-content;
+    margin: auto;
+}
+
+.qr-code-image img {
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+}
+
+.qr-code-image {
+    padding-bottom: 24px;
+}
+
+.qr-code-text h1 {
+    font-size: var(--font-size-bold);
+    font-weight: var(--font-weight-bold);
+    line-height: var(--line-height-bold);
+    color: var(--slate-900);
+    padding-bottom: 16px;
+    margin: 0;
+}
+
+.qr-code-text p {
+    font-size: var(--font-size-regular);
+    font-weight: var(--font-weight-regular);
+    line-height: var(--line-height-regular);
+    color: var(--slate-500);
+    text-align: center;
+    margin: 0;
+}
+
+.qr-code-container {
+    place-items: center;
+}
+
+.qr-code-text {
+    width: 256px;
+    padding: 0px 16px;
+}
