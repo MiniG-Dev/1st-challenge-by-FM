@@ -58,10 +58,6 @@ body {
     margin: 0;
 }
 
-.qr-code-container {
-    place-items: center;
-}
-
 .qr-code-text {
     width: 256px;
     padding: 0px 16px;
